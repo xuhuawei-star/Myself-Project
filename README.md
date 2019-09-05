@@ -1,1 +1,1 @@
-# Myself-Project
+*.pyc
